@@ -107,6 +107,12 @@ body {
     text-decoration: none;
 }
 
+.col-lg-6 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
 @media (max-width: 1403px) {
     h3.fs-5 {
         margin-top: -90px;
