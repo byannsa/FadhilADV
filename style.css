@@ -103,6 +103,15 @@ body {
     color: var(--third-bg-color);
 }
 
+.footer-content span {
+    color: var(--third-bg-color);
+}
+
+.footer-title {
+    margin-bottom: 1px;
+    color: var(--third-bg-color);
+}
+
 .footer-content a {
     text-decoration: none;
 }
